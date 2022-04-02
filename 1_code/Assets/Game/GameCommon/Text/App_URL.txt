@@ -1,0 +1,4 @@
+{
+    "android": "http://cdnjydown.jyhd919.cn/jydown/Version2020/Install/V5/Android/dongfeng.apk",
+    "ios": "itms-services://?action=download-manifest&url=https://cdndownload.jyhd919.cn/install/ios/qiye1/dongfeng_ios.plist"
+}

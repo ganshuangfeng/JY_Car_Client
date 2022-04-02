@@ -1,0 +1,12 @@
+sys_permission|权限管理|1
+sys_car_manager|车辆管理|1
+sys_driver_manager|驾驶员管理|1
+sys_equipment|装备|1
+sys_car_upgrade|车辆升级系统|1
+sys_match|比赛|1
+sys_technology|科技|1
+sys_setting|设置|1
+sys_box|宝箱系统|1
+sys_guide|新手引导|1
+sys_asset|资产|1
+sys_name|玩家名字|1

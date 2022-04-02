@@ -1,0 +1,71 @@
+{
+    "svr_list": [
+        "https://cdnjydown.jyhd919.cn/jydown/Version2020/Update/V5/DongFeng/",
+        "https://jydown.jyhd919.cn/jydown/Version2020/Update/V5/DongFeng/"
+    ],
+    "svr_data": [
+        "https://cdnjydown.jyhd919.cn/jydown/Version2020/Update/V5/DongFeng/",
+        "https://jydown.jyhd919.cn/jydown/Version2020/Update/V5/DongFeng/"
+    ],
+    "svr_game": [
+        "120.79.173.253:5201"
+    ],
+    "Version": "1.1.18",
+    "options": [
+        {
+            "rootDir": "GameCommon",
+            "useBasicVersion": true,
+            "isExtract": true,
+            "dependList": []
+        },
+        {
+            "rootDir": "game_Login",
+            "useBasicVersion": true,
+            "isExtract": true,
+            "dependList": []
+        },
+        {
+            "rootDir": "game_Loding",
+            "useBasicVersion": true,
+            "isExtract": true,
+            "dependList": []
+        },
+        {
+            "rootDir": "game_Hall",
+            "useBasicVersion": true,
+            "isExtract": true,
+            "dependList": []
+        },
+        {
+            "rootDir": "game_Drive",
+            "useBasicVersion": true,
+            "isExtract": true,
+            "dependList": [
+            ]
+        },
+        {
+            "rootDir": "game_Drive_map3",
+            "useBasicVersion": false,
+            "isExtract": false,
+            "dependList": [
+                "game_Drive"
+            ]
+        },
+        {
+            "rootDir": "game_Drive_map4",
+            "useBasicVersion": true,
+            "isExtract": true,
+            "dependList": [
+                "game_Drive"
+            ]
+        },
+        {
+            "rootDir": "game_Drive_map5",
+            "useBasicVersion": true,
+            "isExtract": true,
+            "dependList": [
+                "game_Drive"
+            ]
+        }
+    ]
+}

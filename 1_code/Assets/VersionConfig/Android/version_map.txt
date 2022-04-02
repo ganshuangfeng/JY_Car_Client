@@ -1,0 +1,187 @@
+{
+    "ident": "",
+    "last_version": "0.0.2",
+    "config_version": "",
+    "config_md5": "",
+    "svr_list": [
+        "http://jydown.jyhd919.cn/jydown/Version2019/V13/",
+        "http://cdnjydown.jyhd919.cn/jydown/Version2019/V13/"
+    ],
+    "svr_data": [
+        "http://cdnjydown.jyhd919.cn/jydown/Version2019/V13/",
+        "http://jydown.jyhd919.cn/jydown/Version2019/V13/"
+    ],
+    "svr_game": [
+        "jygate.jyhd919.cn:5101"
+    ],
+    "restart": false,
+    "check_md5": true,
+    "update_tiny": false,
+    "server_status": "",
+    "debug_mask": 0,
+    "history": [],
+    "games": [
+        {
+            "Name": "GameCommon",
+            "Size": 9256340
+        },
+        {
+            "Name": "game_Hall",
+            "Size": 260836
+        },
+        {
+            "Name": "game_Drive",
+            "Size": 26936596
+        },
+        {
+            "Name": "game_Drive_map3",
+            "Size": 2915003
+        },
+        {
+            "Name": "game_Drive_map4",
+            "Size": 2184192
+        }
+    ],
+    "md5s": [
+        {
+            "Name": "udf.txt",
+            "MD5": "e602e708fc330cdcd0db8cba89c6fbb7",
+            "Size": 462
+        },
+        {
+            "Name": "common/udf.txt",
+            "MD5": "c6dd5f8ff000534ef2dfd2049fef89ec",
+            "Size": 91
+        },
+        {
+            "Name": "framework/udf.txt",
+            "MD5": "dd906512c37270ee527713b6cbfd1a8a",
+            "Size": 94
+        },
+        {
+            "Name": "gamecommon/udf.txt",
+            "MD5": "c56d20072edc7eb8d10e9643a64a9a3e",
+            "Size": 139
+        },
+        {
+            "Name": "gamemodule/udf.txt",
+            "MD5": "a08ac0687fa86b75ef5e4dfd94ed75cf",
+            "Size": 139
+        },
+        {
+            "Name": "game_drive/udf.txt",
+            "MD5": "d899251a46a5874a81f66a225a169efb",
+            "Size": 139
+        },
+        {
+            "Name": "game_drive_map3/udf.txt",
+            "MD5": "f015f9a806b64cfa7fe5b5527f63cecd",
+            "Size": 157
+        },
+        {
+            "Name": "game_drive_map4/udf.txt",
+            "MD5": "250a3cf2297b4b32ca6bb8b7ebcf57d1",
+            "Size": 157
+        },
+        {
+            "Name": "game_drive_map5/udf.txt",
+            "MD5": "4c9bb02d36e9ea92426519e8a7492603",
+            "Size": 144
+        },
+        {
+            "Name": "game_hall/udf.txt",
+            "MD5": "4265932be32921ffb1ffa89acac92d54",
+            "Size": 138
+        },
+        {
+            "Name": "game_loding/udf.txt",
+            "MD5": "63e9f2ff23b3dc4593098914622630f7",
+            "Size": 140
+        },
+        {
+            "Name": "game_login/udf.txt",
+            "MD5": "b1afa19f16ac79d30ec1a4a080519af9",
+            "Size": 139
+        },
+        {
+            "Name": "loadingpanel/udf.txt",
+            "MD5": "0081ea5afad3f9a96284da8884ac397c",
+            "Size": 97
+        },
+        {
+            "Name": "sproto/udf.txt",
+            "MD5": "d468154ea194e4915dbc43ce8584527b",
+            "Size": 91
+        },
+        {
+            "Name": "file_list.txt",
+            "MD5": "baf2cfe5151776d76d5f53821e62dcad",
+            "Size": 308
+        },
+        {
+            "Name": "common/file_list.txt",
+            "MD5": "f813b64a302af0a6ffe0546585cff20e",
+            "Size": 95
+        },
+        {
+            "Name": "framework/file_list.txt",
+            "MD5": "f9390d8b9765b80e5555cf41a4bb6c00",
+            "Size": 101
+        },
+        {
+            "Name": "gamecommon/file_list.txt",
+            "MD5": "4425d74d2d0e59c502b76f8a65df3388",
+            "Size": 1252
+        },
+        {
+            "Name": "gamemodule/file_list.txt",
+            "MD5": "14f39c4a51f38ecb4135b31b6c59db6f",
+            "Size": 3188
+        },
+        {
+            "Name": "game_drive/file_list.txt",
+            "MD5": "64008dd19147508bbcfceca24e32099b",
+            "Size": 6154
+        },
+        {
+            "Name": "game_drive_map3/file_list.txt",
+            "MD5": "6ada8b4d1fa049314966096caa955f33",
+            "Size": 235
+        },
+        {
+            "Name": "game_drive_map4/file_list.txt",
+            "MD5": "0db7023e3d5c0774bc751ca69d3b7a02",
+            "Size": 619
+        },
+        {
+            "Name": "game_drive_map5/file_list.txt",
+            "MD5": "9b8ac0e0b301c29ff35b519b0db124eb",
+            "Size": 489
+        },
+        {
+            "Name": "game_hall/file_list.txt",
+            "MD5": "758ecbcd4796305b44521ab125a4d846",
+            "Size": 429
+        },
+        {
+            "Name": "game_loding/file_list.txt",
+            "MD5": "152c9dac3eddb42fc21d7b9141a12bd4",
+            "Size": 448
+        },
+        {
+            "Name": "game_login/file_list.txt",
+            "MD5": "7d8cb28fb2de5da0a3962c8116c4dd6e",
+            "Size": 439
+        },
+        {
+            "Name": "loadingpanel/file_list.txt",
+            "MD5": "494ce6c9b8753d244c0945b195fe8604",
+            "Size": 114
+        },
+        {
+            "Name": "sproto/file_list.txt",
+            "MD5": "eb930659199890bb376cc715ab6a0f27",
+            "Size": 95
+        }
+    ]
+}

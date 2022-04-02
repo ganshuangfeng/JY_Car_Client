@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: e042c1e1a22956b42a7e4c250a1ea1cb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: background
+    100002: //RootNode
+    100004: floor
+    100006: floor2
+    100008: grass
+    100010: gym
+    100012: luntai
+    100014: mid
+    100016: road
+    100018: screen_big
+    100020: screen_big2
+    100022: screen_small
+    100024: screen_small2
+    100026: start
+    100028: taizi
+    100030: tong
+    100032: background001
+    400000: background
+    400002: //RootNode
+    400004: floor
+    400006: floor2
+    400008: grass
+    400010: gym
+    400012: luntai
+    400014: mid
+    400016: road
+    400018: screen_big
+    400020: screen_big2
+    400022: screen_small
+    400024: screen_small2
+    400026: start
+    400028: taizi
+    400030: tong
+    400032: background001
+    2100000: 'Material #213'
+    2100002: 'Material #212'
+    2100004: 'Material #214'
+    2100006: 'Material #211'
+    2100008: 'Material #210'
+    2100010: 'Material #209'
+    2100012: 'Material #208'
+    2300000: background
+    2300002: floor
+    2300004: floor2
+    2300006: grass
+    2300008: gym
+    2300010: luntai
+    2300012: mid
+    2300014: road
+    2300016: screen_big
+    2300018: screen_big2
+    2300020: screen_small
+    2300022: screen_small2
+    2300024: start
+    2300026: taizi
+    2300028: tong
+    2300030: background001
+    3300000: background
+    3300002: floor
+    3300004: floor2
+    3300006: grass
+    3300008: gym
+    3300010: luntai
+    3300012: mid
+    3300014: road
+    3300016: screen_big
+    3300018: screen_big2
+    3300020: screen_small
+    3300022: screen_small2
+    3300024: start
+    3300026: taizi
+    3300028: tong
+    3300030: background001
+    4300000: background
+    4300002: mid
+    4300004: road
+    4300006: screen_small
+    4300008: luntai
+    4300010: screen_small2
+    4300012: screen_big2
+    4300014: screen_big
+    4300016: tong
+    4300018: taizi
+    4300020: start
+    4300022: floor
+    4300024: floor2
+    4300026: grass
+    4300028: gym
+    4300030: background001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #208'
+    second: {fileID: 2100000, guid: 01960ffc302455943859b6b575e15f01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #209'
+    second: {fileID: 2100000, guid: 73409917ec74b3f4fb68ef6261ec1771, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #210'
+    second: {fileID: 2100000, guid: cb9deb1f707f69d4f9981cbe82685eaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #211'
+    second: {fileID: 2100000, guid: 814f89bea9c5aad4daceb7dc2e179ebc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #212'
+    second: {fileID: 2100000, guid: ab3f899e36a809f4f84fa9c172d06914, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #213'
+    second: {fileID: 2100000, guid: 6f03bb5057861774b986d6976c683cad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #214'
+    second: {fileID: 2100000, guid: 6dc11f7624354914d821d0e7447078d3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

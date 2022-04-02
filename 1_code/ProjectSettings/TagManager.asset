@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GuiCamera
+  - GameManager
+  - UICanvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 3DBack
+  - 3DMiddle
+  - 3DFront
+  - 3DParticle
+  - 3DUI
+  - 2DBack
+  - 2DMiddle
+  - 2DFront
+  - 2DParticle
+  - 2DUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 3DBack_back
+    uniqueID: 3312128229
+    locked: 0
+  - name: 3DBack_middle
+    uniqueID: 2458491235
+    locked: 0
+  - name: 3DBack_front
+    uniqueID: 3055266949
+    locked: 0
+  - name: 3DMiddle_back
+    uniqueID: 1497502725
+    locked: 0
+  - name: 3DMiddle_middle
+    uniqueID: 3320920807
+    locked: 0
+  - name: 3DMiddle_front
+    uniqueID: 2859102795
+    locked: 0
+  - name: 3DFront_back
+    uniqueID: 1011067523
+    locked: 0
+  - name: 3DFront_middle
+    uniqueID: 34234315
+    locked: 0
+  - name: 3DFront_front
+    uniqueID: 1637018209
+    locked: 0
+  - name: 2DBack_back
+    uniqueID: 3849276999
+    locked: 0
+  - name: 2DBack_middle
+    uniqueID: 1623113627
+    locked: 0
+  - name: 2DBack_front
+    uniqueID: 994071073
+    locked: 0
+  - name: 2DMiddle_back
+    uniqueID: 3798044313
+    locked: 0
+  - name: 2DMiddle_middle
+    uniqueID: 3865000401
+    locked: 0
+  - name: 2DMiddle_front
+    uniqueID: 1421510877
+    locked: 0
+  - name: 2DFront_back
+    uniqueID: 1766581485
+    locked: 0
+  - name: 2DFront_middle
+    uniqueID: 1876376105
+    locked: 0
+  - name: 2DFront_front
+    uniqueID: 321735079
+    locked: 0
+  - name: 
+    uniqueID: 3603744803
+    locked: 0
+  - name: 
+    uniqueID: 1014029355
+    locked: 0
+  - name: 
+    uniqueID: 2170850283
+    locked: 0
+  - name: 
+    uniqueID: 1525208647
+    locked: 0
+  - name: 
+    uniqueID: 3557527575
+    locked: 0
+  - name: 
+    uniqueID: 3002496407
+    locked: 0
+  - name: 
+    uniqueID: 3187891743
+    locked: 0
+  - name: 
+    uniqueID: 2312823507
+    locked: 0
+  - name: 
+    uniqueID: 3817880105
+    locked: 0
+  - name: 
+    uniqueID: 1370297573
+    locked: 0
+  - name: 
+    uniqueID: 1956430487
+    locked: 0
+  - name: 
+    uniqueID: 2280422387
+    locked: 0
+  - name: 
+    uniqueID: 4256104795
+    locked: 0

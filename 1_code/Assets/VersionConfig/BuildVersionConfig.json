@@ -1,0 +1,25 @@
+{
+    "svr_list": ["http://192.168.0.207:6688/files/JY/"],
+    "svr_data": ["http://192.168.0.207:6688/files/JY/"],
+    "svr_game": ["jygate.jyhd919.cn:5101"],
+    "Version": "12.1.1",
+    "options": [{
+        "rootDir": "GameCommon",
+        "useBasicVersion": true,
+        "isExtract": true,
+        "dependList": []
+    },
+    {
+        "rootDir": "game_Hall",
+        "useBasicVersion": true,
+        "isExtract": true,
+        "dependList": []
+    },
+    {
+        "rootDir": "game_Demo",
+        "useBasicVersion": true,
+        "isExtract": true,
+        "dependList": []
+    }
+    ]
+}

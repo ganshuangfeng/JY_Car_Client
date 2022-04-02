@@ -1,0 +1,5 @@
+sys_permission|权限管理|1
+sys_car_manager|系统：车辆管理器|1
+sys_driver_manager|系统：驾驶员管理器|1
+sys_equipment|装备系统|1
+sys_car_upgrade|车辆升级系统|1

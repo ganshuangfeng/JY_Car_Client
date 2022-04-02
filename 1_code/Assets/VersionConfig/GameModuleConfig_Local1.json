@@ -1,0 +1,1 @@
+{"modules":[{"name":"GameModule/sys_permission","enable":true},{"name":"GameModule/sys_car_manager","enable":true},{"name":"GameModule/sys_driver_manager","enable":true},{"name":"GameModule/sys_equipment","enable":true},{"name":"GameModule/sys_car_upgrade","enable":true}]}

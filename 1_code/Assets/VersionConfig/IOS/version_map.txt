@@ -1,0 +1,149 @@
+{
+    "ident": "",
+    "last_version": "0.0.2",
+    "config_version": "",
+    "config_md5": "",
+    "svr_list": [
+        "http://jydown.jyhd919.cn/jydown/Version2019/V13/",
+        "http://cdnjydown.jyhd919.cn/jydown/Version2019/V13/"
+    ],
+    "svr_data": [
+        "http://cdnjydown.jyhd919.cn/jydown/Version2019/V13/",
+        "http://jydown.jyhd919.cn/jydown/Version2019/V13/"
+    ],
+    "svr_game": [
+        "jygate.jyhd919.cn:5101"
+    ],
+    "restart": false,
+    "check_md5": true,
+    "update_tiny": false,
+    "server_status": "",
+    "debug_mask": 0,
+    "history": [],
+    "games": [
+        {
+            "Name": "GameCommon",
+            "Size": 5184451
+        },
+        {
+            "Name": "game_Hall",
+            "Size": 4416821
+        },
+        {
+            "Name": "game_Drive",
+            "Size": 52025959
+        }
+    ],
+    "md5s": [
+        {
+            "Name": "udf.txt",
+            "MD5": "59f9b3f7e7e5d99c71833dacecac102a",
+            "Size": 444
+        },
+        {
+            "Name": "common/udf.txt",
+            "MD5": "c6dd5f8ff000534ef2dfd2049fef89ec",
+            "Size": 91
+        },
+        {
+            "Name": "framework/udf.txt",
+            "MD5": "dd906512c37270ee527713b6cbfd1a8a",
+            "Size": 94
+        },
+        {
+            "Name": "gamecommon/udf.txt",
+            "MD5": "c56d20072edc7eb8d10e9643a64a9a3e",
+            "Size": 139
+        },
+        {
+            "Name": "gamemodule/udf.txt",
+            "MD5": "a08ac0687fa86b75ef5e4dfd94ed75cf",
+            "Size": 139
+        },
+        {
+            "Name": "game_drive/udf.txt",
+            "MD5": "d899251a46a5874a81f66a225a169efb",
+            "Size": 139
+        },
+        {
+            "Name": "game_hall/udf.txt",
+            "MD5": "4265932be32921ffb1ffa89acac92d54",
+            "Size": 138
+        },
+        {
+            "Name": "game_loding/udf.txt",
+            "MD5": "63e9f2ff23b3dc4593098914622630f7",
+            "Size": 140
+        },
+        {
+            "Name": "game_login/udf.txt",
+            "MD5": "b1afa19f16ac79d30ec1a4a080519af9",
+            "Size": 139
+        },
+        {
+            "Name": "loadingpanel/udf.txt",
+            "MD5": "0081ea5afad3f9a96284da8884ac397c",
+            "Size": 97
+        },
+        {
+            "Name": "sproto/udf.txt",
+            "MD5": "d468154ea194e4915dbc43ce8584527b",
+            "Size": 91
+        },
+        {
+            "Name": "file_list.txt",
+            "MD5": "12775c3a2d49097684f0ac9afdfefd96",
+            "Size": 307
+        },
+        {
+            "Name": "common/file_list.txt",
+            "MD5": "37995c06fad6c8bfbc9a4345b7808d4d",
+            "Size": 95
+        },
+        {
+            "Name": "framework/file_list.txt",
+            "MD5": "640ffe786c5a26a25752dd6897b5653f",
+            "Size": 101
+        },
+        {
+            "Name": "gamecommon/file_list.txt",
+            "MD5": "415d38d8a6c874351d038cd45579dc6d",
+            "Size": 1141
+        },
+        {
+            "Name": "gamemodule/file_list.txt",
+            "MD5": "8cefea75085a8ae6111ea92395543a25",
+            "Size": 1550
+        },
+        {
+            "Name": "game_drive/file_list.txt",
+            "MD5": "ea9be89d94ea2ac64311b3f3deb36641",
+            "Size": 5549
+        },
+        {
+            "Name": "game_hall/file_list.txt",
+            "MD5": "c94d5bea0a524f39fd6faa68b925f710",
+            "Size": 562
+        },
+        {
+            "Name": "game_loding/file_list.txt",
+            "MD5": "dad06951cd80ac53bd5e48ae4401e5d4",
+            "Size": 554
+        },
+        {
+            "Name": "game_login/file_list.txt",
+            "MD5": "61d89e7bfe1f41218190b9b1d63e51bb",
+            "Size": 438
+        },
+        {
+            "Name": "loadingpanel/file_list.txt",
+            "MD5": "1c1e04e8ec5054bcd3cc6c15df628e6a",
+            "Size": 453
+        },
+        {
+            "Name": "sproto/file_list.txt",
+            "MD5": "89bd1b6d8ef56ae9bcb3675533f322f3",
+            "Size": 94
+        }
+    ]
+}

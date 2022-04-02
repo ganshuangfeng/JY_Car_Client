@@ -1,0 +1,14 @@
+{
+    "HelpPanel.prefab": [
+        "Assets/Game/Activity/xxlsg_phb/Prefab/helppanel_activity_xxlsg_phb.prefab",
+        "Assets/Game/Activity/xxl_xcfn/Prefab/helppanel_activity_xxl_xcfn.prefab",
+        "Assets/Game/Activity/sys_sqdfs/Prefab/helppanel_activity_sys_sqdfs.prefab",
+        "Assets/Game/Activity/sys_shphb/Prefab/helppanel_activity_sys_shphb.prefab"
+    ],
+    "gy_57.png": [
+        "Assets/Game/Activity/gift_com_gift/Texture2D/gy_57_activity_gift_com_gift.png"
+    ],
+    "Dachui_Pt_H.prefab": [
+        "Assets/Game/Activity/act_018_hlqjd/Prefab/dachui_pt_h_activity_act_018_hlqjd.prefab"
+    ]
+}
